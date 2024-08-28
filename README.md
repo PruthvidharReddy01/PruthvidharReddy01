@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java and web development 
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me Email me on pruthvidharreddykotha@gmail.com
+- I've completed Python and C (not in depth) but the majority part
 - Currently working on small website
 - Looking to learn and work on game development and Gen AI
 
