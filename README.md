@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PruthvidharReddy01
+- 👋 Hi, I’m @PruthvidharReddy
 - 👀 I’m interested in Game development , Gen AI and Software development
 - 🌱 I’m currently learning Java and web development 
 - 💞️ I’m looking to collaborate on small projects
