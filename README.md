@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PruthvidharReddy
-- 👀 I’m interested in CRM Systems , Gen AI , Game Development and Software development
+- 👀 I’m interested in Gen AI , Game Development and Software development
 - 🌱 I’m currently learning Java and web development 
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me Email me on pruthvidharreddykotha@gmail.com
 - I've completed Python , C and Java but the majority part
 - Currently working with 2 Studios which work on roblox
-- Looking to learn and work on CRM Systems , GenAI , Game Dev and Software Dev
+- Looking to learn and work on GenAI , Game Dev and Software Dev
